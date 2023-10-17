@@ -1,3 +1,5 @@
 zebrafish have stripes
 they live in freshwater streams
 there are some zebrafish with spots
+
+they do not like it when the pH is below 7
